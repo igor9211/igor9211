@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igor9211 - Igor
+- 🌱 I’m currently learning Python/Django and compatible
+- 💞️ I’m looking to collaborate on Django Junior project
+- 📫 How to reach me igor921@gmail.com or linkedin.com/in/igor-zawadzki-6ba30983
